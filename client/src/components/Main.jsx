@@ -6,7 +6,7 @@ const Main = () => {
         <div className='min-h-screen bg-slate-900 flex justify-center md:p-8'>
             <div className='md:w-1/2 p-3 md:p-0 bg-slate-900 rounded-2xl space-y-8 text-left'>
                 <h1 className='text-white font-bold text-2xl'>Hello, I'm Josh.</h1>
-                <p className='text-slate-200 text-lg md:text-xl'>An enthusiastic web developer with a diverse skill set acquired through structured learning and hands-on projects, and a fervent passion for crafting dynamic and user-centric websites. My commitment to staying current with industry trends and technologies reflects my dedication to excellence. Although my professional journey is just beginning, I am excited to leverage my skills and contribute to the exciting world of web development.</p>
+                <p className='text-slate-200 text-lg md:text-xl'>I'm an enthusiastic web developer with a diverse skill set developed through structured learning and hands-on projects. I'm passionate about crafting dynamic and user-centric websites. My commitment to staying current with industry trends reflects my dedication to excellence. As I embark on my professional journey, I'm eager to leverage my skills and contribute to the exciting world of web development.</p>
                 <h2 className='text-white text-2xl font-bold'>Skills</h2>
                 <ul>
                     <li className='text-slate-200 text-lg'>Javascript (NodeJS, ReactJS)</li>
