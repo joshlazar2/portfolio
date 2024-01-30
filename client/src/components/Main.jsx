@@ -12,7 +12,7 @@ const Main = () => {
                     <li className='text-slate-200 text-lg'>Javascript (NodeJS, ReactJS)</li>
                     <li className='text-slate-200 text-lg'>Redux</li>
                     <li className='text-slate-200 text-lg'>MongoDB</li>
-                    <li className='text-slate-200 text-lg'>HTML5/CSS</li>
+                    <li className='text-slate-200 text-lg'>HTML5/CSS(Tailwind)</li>
                     <li className='text-slate-200 text-lg'>Python (Flask)</li>
                     <li className='text-slate-200 text-lg'>Git</li>
                     <li className='text-slate-200 text-lg'>RAG</li>
@@ -20,7 +20,7 @@ const Main = () => {
                 <h2 className='text-white text-2xl font-bold'>Projects</h2>
                 <div className='bg-white rounded-xl flex flex-col p-2 justify-center items-center space-y-2'>
                     <p className='text-xl font-bold text-blue-500'>Shopiyo</p>
-                    <p className='text-lg text-slate-900 text-center'>MERN Stack E-commerce App Utilizing Redux, and Multer For File Uploads</p>
+                    <p className='text-lg text-slate-900 text-center'>MERN Stack E-commerce App Utilizing Redux, Tailwind, and Multer For File Uploads</p>
                     <div className='space-x-3'>
                         <button onClick={() => window.open('https://www.youtube.com/watch?v=w5jpxl66uZw', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>Watch Live Demo</button>
                         <button onClick={() => window.open('https://github.com/joshlazar2/e-commerce', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>View Source Code</button>
