@@ -22,7 +22,7 @@ const Main = () => {
                     <p className='text-xl font-bold text-blue-500'>Shopiyo</p>
                     <p className='text-lg text-slate-900 text-center'>MERN Stack E-commerce App Utilizing Redux, and Multer For File Uploads</p>
                     <div className='space-x-3'>
-                        <button className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>Visit Project</button>
+                        <button onClick={() => window.open('https://www.youtube.com/watch?v=w5jpxl66uZw', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>Watch Live Demo</button>
                         <button onClick={() => window.open('https://github.com/joshlazar2/e-commerce', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>View Source Code</button>
                     </div>
                 </div>
