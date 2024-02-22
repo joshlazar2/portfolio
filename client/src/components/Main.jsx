@@ -34,6 +34,14 @@ const Main = () => {
                         <button onClick={() => window.open('https://github.com/joshlazar2/Pokenfo', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>View Source Code</button>
                     </div>
                 </div>
+                <div className='bg-white rounded-xl flex flex-col p-2 justify-center items-center space-y-2'>
+                    <p className='text-xl font-bold text-blue-500'>Cryptinfo</p>
+                    <p className='text-lg text-slate-900 text-center'>Crypto Information App Built in React, Utilizing the CoinCap API</p>
+                    <div className='space-x-3'>
+                        <button onClick={() => window.open('https://crypt-info.vercel.app/', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>Visit App</button>
+                        <button onClick={() => window.open('https://github.com/joshlazar2/cryptinfo', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>View Source Code</button>
+                    </div>
+                </div>
                 <h2 className='text-white text-2xl font-bold'>Contact</h2>
                 <div className='md:w-1/2 text-right'>
                     <div className='flex justify-between'>
