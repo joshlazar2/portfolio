@@ -16,6 +16,8 @@ const Main = () => {
                     <li className='text-slate-200 text-lg'>Python (Flask)</li>
                     <li className='text-slate-200 text-lg'>Git</li>
                     <li className='text-slate-200 text-lg'>RAG</li>
+                    <li className='text-slate-200 text-lg'>Langchain</li>
+                    <li className='text-slate-200 text-lg'>Postman</li>
                 </ul>
                 <h2 className='text-white text-2xl font-bold'>Projects</h2>
                 <div className='bg-white rounded-xl flex flex-col p-2 justify-center items-center space-y-2'>
