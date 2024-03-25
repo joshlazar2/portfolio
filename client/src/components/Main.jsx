@@ -9,7 +9,7 @@ const Main = () => {
                 <p className='text-slate-200 text-lg md:text-xl'>I'm an enthusiastic web developer with a diverse skill set developed through structured learning and hands-on projects. I'm passionate about crafting dynamic and user-centric websites. My commitment to staying current with industry trends reflects my dedication to excellence. As I embark on my professional journey, I'm eager to leverage my skills and contribute to the exciting world of web development.</p>
                 <h2 className='text-white text-2xl font-bold'>Skills</h2>
                 <ul>
-                    <li className='text-slate-200 text-lg'>Javascript (NodeJS, ReactJS)</li>
+                    <li className='text-slate-200 text-lg'>Javascript (NodeJS, ReactJS, NextJs)</li>
                     <li className='text-slate-200 text-lg'>Redux</li>
                     <li className='text-slate-200 text-lg'>MongoDB</li>
                     <li className='text-slate-200 text-lg'>HTML5/CSS(Tailwind)</li>
