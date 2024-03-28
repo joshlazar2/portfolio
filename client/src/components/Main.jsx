@@ -30,6 +30,14 @@ const Main = () => {
                     </div>
                 </div>
                 <div className='bg-white rounded-xl flex flex-col p-2 justify-center items-center space-y-2'>
+                    <p className='text-xl font-bold text-blue-500'>Todo App</p>
+                    <p className='text-lg text-slate-900 text-center'>Full-Stack Todo App built in Next.js with Tailwind and MongoDb. Users can Signup and Login. Project utilizes bcrypt for password hashing. Users can create Todos and mark them as completed or delete them.</p>
+                    <div className='space-x-3'>
+                        <button onClick={() => window.open('https://to-do-nextjs-josh.vercel.app/', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>Visit App</button>
+                        <button onClick={() => window.open('https://github.com/joshlazar2/login_reg_next.js', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>View Source Code</button>
+                    </div>
+                </div>
+                <div className='bg-white rounded-xl flex flex-col p-2 justify-center items-center space-y-2'>
                     <p className='text-xl font-bold text-blue-500'>Pokenfo</p>
                     <p className='text-lg text-slate-900 text-center'>Pokemon Information App Built in React, Utilizing the Popular API, PokeAPI</p>
                     <div className='space-x-3'>
