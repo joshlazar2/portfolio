@@ -20,7 +20,7 @@ const Main = () => {
                     <li className='text-slate-200 text-lg'>Postman</li>
                 </ul>
                 <h2 className='text-white text-2xl font-bold'>Projects</h2>
-                <div className='bg-white rounded-xl flex flex-col p-2 justify-center items-center space-y-2'>
+                <div className='bg-white rounded-xl flex flex-col p-3 justify-center items-center space-y-2'>
                     <p className='text-xl font-bold text-blue-500'>Cleveland Kidney Disease Associates</p>
                     <p className='text-lg text-slate-900 text-center'>Dynamic Nephrology Practice Website built in React.js with Tailwind CSS for a client. The site showcases sleek, responsive styling and a user-friendly interface. It includes a comprehensive dropdown menu featuring 386 genes with detailed descriptions to align with the practice's focus on genetics. Additionally, the website enhances patient and healthcare professional decision-making with the integration of eight specialized risk calculators relevant to kidney failure.</p>
                     <div className='space-x-3'>
@@ -28,7 +28,7 @@ const Main = () => {
                         <button onClick={() => window.open('https://github.com/joshlazar2/ckd', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>View Source Code</button>
                     </div>
                 </div>
-                <div className='bg-white rounded-xl flex flex-col p-2 justify-center items-center space-y-2'>
+                <div className='bg-white rounded-xl flex flex-col p-3 justify-center items-center space-y-2'>
                     <p className='text-xl font-bold text-blue-500'>Shopiyo</p>
                     <p className='text-lg text-slate-900 text-center'>Full CRUD MERN Stack E-commerce App Utilizing Redux, Tailwind, Multer For File Uploads to Cloudinary API to Host</p>
                     <p className='text-lg text-slate-900 text-center'>App is hosted on render which uses a public suffix creating issues with storing cookies. All features work on chrome on desktop. You can test responsiveness on mobile but authentication features may not work.</p>
@@ -37,7 +37,7 @@ const Main = () => {
                         <button onClick={() => window.open('https://github.com/joshlazar2/e-commerce-cloudinary', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>View Source Code</button>
                     </div>
                 </div>
-                <div className='bg-white rounded-xl flex flex-col p-2 justify-center items-center space-y-2'>
+                <div className='bg-white rounded-xl flex flex-col p-3 justify-center items-center space-y-2'>
                     <p className='text-xl font-bold text-blue-500'>Todo App</p>
                     <p className='text-lg text-slate-900 text-center'>Full-Stack Todo App built in Next.js with Tailwind and MongoDB. Users can Signup and Login. Project utilizes bcrypt for password hashing. Users can create Todos and mark them as completed or delete them.</p>
                     <div className='space-x-3'>
@@ -45,7 +45,7 @@ const Main = () => {
                         <button onClick={() => window.open('https://github.com/joshlazar2/login_reg_next.js', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>View Source Code</button>
                     </div>
                 </div>
-                <div className='bg-white rounded-xl flex flex-col p-2 justify-center items-center space-y-2'>
+                <div className='bg-white rounded-xl flex flex-col p-3 justify-center items-center space-y-2'>
                     <p className='text-xl font-bold text-blue-500'>Pokenfo</p>
                     <p className='text-lg text-slate-900 text-center'>Pokemon Information App Built in React, Utilizing the Popular API, PokeAPI</p>
                     <div className='space-x-3'>
@@ -53,7 +53,7 @@ const Main = () => {
                         <button onClick={() => window.open('https://github.com/joshlazar2/Pokenfo', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>View Source Code</button>
                     </div>
                 </div>
-                <div className='bg-white rounded-xl flex flex-col p-2 justify-center items-center space-y-2'>
+                <div className='bg-white rounded-xl flex flex-col p-3 justify-center items-center space-y-2'>
                     <p className='text-xl font-bold text-blue-500'>Cryptinfo</p>
                     <p className='text-lg text-slate-900 text-center'>Crypto Information App Built in React, Utilizing the CoinCap API</p>
                     <div className='space-x-3'>
