@@ -21,6 +21,13 @@ const Main = () => {
                 </ul>
                 <h2 className='text-white text-2xl font-bold'>Projects</h2>
                 <div className='bg-white rounded-xl flex flex-col p-3 justify-center items-center space-y-2'>
+                    <p className='text-xl font-bold text-blue-500 text-center'>Guess U</p>
+                    <p className='text-lg text-slate-900 text-center'>Launched GuessU, a full-stack mobile trivia game built with the MERN stack and React Native, where players guess thecolleges attended by NBA players. Designed and implemented multiple game modes including single-player,multiplayer, and daily challenges. Integrated secure user authentication, persistent game state, and cloud-hosteddata storage. Connected to a custom backend API to handle scoring, player statistics, and game logic. Monetized within-app advertising using Google AdMob. Deployed the backend on Vercel and database on MongoDB Atlas. Delivereda polished UI/UX using TailwindCSS with NativeWind and optimized for App Store distribution.</p>
+                    <div className='space-x-3'>
+                        <button onClick={() => window.open('https://apps.apple.com/us/app/guess-u/id6615061875', '_blank')} className='bg-blue-500 text-white p-3 rounded-xl hover:shadow-2xl hover:bg-blue-600'>Visit App</button>
+                    </div>
+                </div>
+                <div className='bg-white rounded-xl flex flex-col p-3 justify-center items-center space-y-2'>
                     <p className='text-xl font-bold text-blue-500 text-center'>Cleveland Kidney Disease Associates</p>
                     <p className='text-lg text-slate-900 text-center'>Dynamic Nephrology Practice Website built in React.js with Tailwind CSS for a client. The site showcases sleek, responsive styling and a user-friendly interface. It includes a comprehensive dropdown menu featuring 386 genes with detailed descriptions to align with the practice's focus on genetics. Additionally, the website enhances patient and healthcare professional decision-making with the integration of eight specialized risk calculators relevant to kidney failure.</p>
                     <div className='space-x-3'>
